@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Joseph 👋</h1>
 
-<!--
-**JosephHampton/JosephHampton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><b>Full-Stack Developer &nbsp;·&nbsp; DevOps &amp; Cloud Infrastructure</b></p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I began my career in <b>data analytics</b> and progressively specialised into <b>DevOps, cloud
+  infrastructure and full-stack engineering</b>. Today I design, build and ship production web
+  applications end to end — from <b>React &amp; TypeScript</b> frontends and <b>Node.js</b> APIs to
+  the <b>AWS</b> infrastructure, containerisation and <b>CI/CD pipelines</b> that deploy and run them.
+  <br>I care most about shipping reliable software and automating everything around it.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🎓 &nbsp;Currently completing a <b>Master's Degree Apprenticeship in Digital &amp; Technology Solutions</b> at <b>Newcastle University</b>.
+</p>
+
+<h3 align="center">Tech I work with</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,nodejs,express,mongodb,aws,docker,githubactions" alt="Tech stack">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joseph-hampton-636556247/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=white" alt="Connect on LinkedIn">
+  </a>
+</p>
