@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Joseph 👋</h1>
 
-<p align="center"><b>Full-Stack Developer</b> &nbsp;·&nbsp; <b>DevOps &amp; Cloud Infrastructure</b></p>
+<p align="center"><b>Full-Stack Developer</b> &nbsp;·&nbsp; comfortable in <b>DevOps &amp; cloud infrastructure</b></p>
 
 <p align="center">
-  I began in <b>data analytics</b>, moved into <b>DevOps and cloud infrastructure</b>, and now build and
-  ship production web apps end to end: <b>React</b> and <b>TypeScript</b> frontends, <b>Node.js</b> APIs,
-  and the <b>AWS</b> and <b>CI/CD</b> setup that runs them. I care most about shipping reliable software
-  and automating everything around it. It runs on my machine and, thanks to Docker, on yours too.
+  I'm a <b>full-stack developer</b> who builds and ships production web apps end to end:
+  <b>React</b> and <b>TypeScript</b> on the front, <b>Node.js</b> APIs behind them. I came up through
+  <b>data analytics</b> and a solid stretch in <b>DevOps and cloud infrastructure</b>, so the <b>AWS</b>,
+  <b>Docker</b> and <b>CI/CD</b> side is well covered when a project needs it. It runs on my machine and,
+  thanks to Docker, on yours too.
 </p>
 
 <p align="center">
