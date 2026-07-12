@@ -4,7 +4,7 @@
 
 <p align="center">
   Started out as a <b>data analyst</b>, moved into building web apps out of hatred of PowerBI, then got into <b>DevOps and Cloud</b>
-  when people actually wanted to use the web apps which sadly couldn't be done on localhost .
+  when people actually wanted to use the web apps (which sadly couldn't be done on localhost) .
 </p>
 
 <p align="center">
