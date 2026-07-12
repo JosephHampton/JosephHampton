@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🎓 &nbsp;Currently doing a <b>Master's apprenticeship at Newcastle University</b> in Digital &amp; Technology Solutions.
+  🎓 &nbsp;Currently working at an AI Startup while doing a <b>Msc at Newcastle University</b> in Digital &amp; Technology Solutions.
 </p>
 
 <h3 align="center">Tech I work with</h3>
