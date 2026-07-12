@@ -9,7 +9,7 @@
 
 <p align="center">
   Mostly work with <b>React</b>, <b>TypeScript</b> and <b>Node.js</b>, with <b>AWS</b>, <b>Docker</b>
-  and <b>CI/CD</b> on the infra side.
+  and <b>Kubernetes</b> on the infra | CI/CD side.
 </p>
 
 <p align="center">
