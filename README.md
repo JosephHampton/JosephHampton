@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,nodejs,express,mongodb,aws,docker,githubactions" alt="Tech stack">
 </p>
 
-<h3 align="center">GitHub activity</h3>
+<h3 align="center">Proof I do stuf</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosephHampton&bg_color=0d1117&color=c9d1d9&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&title_color=58a6ff&hide_border=true&radius=16" alt="Contribution activity graph" width="100%">
