@@ -1,21 +1,21 @@
 <h1 align="center">Hi, I'm Joseph 👋</h1>
 
-<p align="center"><b>Full-Stack Developer</b> &nbsp;·&nbsp; recovering DevOps engineer</p>
+<p align="center"><b>Full-Stack Developer</b> &nbsp;·&nbsp; deploys own code, blames own code</p>
 
 <p align="center">
-  I do full-stack: the frontend, the backend, and the YAML that somehow always breaks the deploy.
-  Took the long way to get here, started out as a <b>data analyst</b> buried in spreadsheets, fell down
-  the <b>DevOps and cloud</b> rabbit hole, and eventually landed in <b>full-stack</b>, which is the bit I actually enjoy.
+  Full-stack developer. I started out as a <b>data analyst</b>, moved into building the actual apps, then
+  fell into <b>DevOps and cloud</b> because someone had to deploy the stuff and it turned out to be me.
+  You can't really call it "full-stack" if it only runs on localhost.
 </p>
 
 <p align="center">
-  Day to day it's <b>React</b>, <b>TypeScript</b> and <b>Node.js</b>, and thanks to the DevOps detour I can
-  wrangle <b>AWS</b>, <b>Docker</b> and <b>CI/CD</b> without crying (much).
+  So I do the whole lot: <b>React</b> and <b>TypeScript</b> up front, <b>Node.js</b> underneath, and the
+  <b>AWS</b>, <b>Docker</b> and <b>CI/CD</b> plumbing that keeps it alive in production (and me awake at 3am).
 </p>
 
 <p align="center">
-  🎓 &nbsp;Also doing a <b>Master's apprenticeship at Newcastle University</b> in Digital &amp; Technology
-  Solutions, which is a fancy way of saying I get paid to Google things and get a degree out of it.
+  🎓 &nbsp;Also chipping away at a <b>Master's apprenticeship at Newcastle University</b> in Digital &amp;
+  Technology Solutions, aka getting paid to Google things with a degree at the end.
 </p>
 
 <h3 align="center">Tech I work with</h3>
