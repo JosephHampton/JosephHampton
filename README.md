@@ -22,22 +22,24 @@
   <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,nodejs,express,mongodb,aws,docker,githubactions" alt="Tech stack">
 </p>
 
+<h3 align="center">Certifications I'm studying for</h3>
+
+<p align="center">
+  <img height="70" src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator (CKA)">
+  &nbsp;&nbsp;
+  <img height="70" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate">
+  &nbsp;&nbsp;
+  <img height="70" src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate">
+  &nbsp;&nbsp;
+  <img height="70" src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional">
+  &nbsp;&nbsp;
+  <img height="70" src="https://images.credly.com/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate">
+</p>
+
 <h3 align="center">Github Activity</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosephHampton&bg_color=0d1117&color=c9d1d9&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&title_color=58a6ff&hide_border=true&radius=16" alt="Contribution activity graph" width="100%">
-</p>
-
-<h3 align="center">Certifications</h3>
-
-<p align="center">
-  <img height="92" src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator (CKA)">
-  &nbsp;&nbsp;
-  <img height="92" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate">
-  &nbsp;&nbsp;
-  <img height="92" src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional">
-  &nbsp;&nbsp;
-  <img height="92" src="https://images.credly.com/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate">
 </p>
 
 <p align="center">
