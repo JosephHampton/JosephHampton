@@ -25,13 +25,15 @@
 <h3 align="center">Certifications I'm studying for</h3>
 
 <p align="center">
-  <img height="70" src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator (CKA)">
-  &nbsp;&nbsp;
   <img height="70" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate">
   &nbsp;&nbsp;
-  <img height="70" src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate">
+  <img height="70" src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional">
+  &nbsp;&nbsp;
+  <img height="70" src="https://images.credly.com/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob" alt="AWS Certified CloudOps Engineer – Associate">
   &nbsp;&nbsp;
   <img height="70" src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional">
+  &nbsp;&nbsp;
+  <img height="70" src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator (CKA)">
   &nbsp;&nbsp;
   <img height="70" src="https://images.credly.com/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate">
 </p>
@@ -47,3 +49,4 @@
     <img src="https://img.shields.io/badge/Say_hi_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Say hi on LinkedIn">
   </a>
 </p>
+
