@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Joseph 👋</h1>
 
-<p align="center"><b>Full-Stack Developer</b> &nbsp;·&nbsp; with <b>DevOps &amp; cloud</b> roots</p>
+<p align="center"><b>Full-Stack Developer</b> &nbsp;·&nbsp; <b>DevOps &amp; cloud</b> roots</p>
 
 <p align="center">
-  I started out as a <b>data analyst</b> (spreadsheets, dashboards, and a healthy suspicion of every
-  number), wandered into <b>DevOps and cloud infrastructure</b>, and eventually made the jump into
-  <b>full-stack development</b>, which is where I'm having the most fun.
+  I'm a full-stack developer, and I got here the long way round: started in <b>data analytics</b>, moved
+  through <b>DevOps and cloud infrastructure</b>, and landed in <b>full-stack</b>, where I've stayed.
 </p>
 
 <p align="center">
-  These days I build and ship web apps end to end: <b>React</b> and <b>TypeScript</b> on the front,
-  <b>Node.js</b> APIs behind them, plus the <b>AWS</b>, <b>Docker</b> and <b>CI/CD</b> side handled from
-  the DevOps days. It runs on my machine and, thanks to Docker, on yours too.
+  Mostly I work with <b>React</b>, <b>TypeScript</b> and <b>Node.js</b>, and I still handle the <b>AWS</b>,
+  <b>Docker</b> and <b>CI/CD</b> side myself when a project calls for it.
 </p>
 
 <p align="center">
