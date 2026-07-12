@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Mostly work with <b>React</b>, <b>TypeScript</b> and <b>Node.js</b>, with <b>AWS</b>, <b>Docker</b>
+  Mostly work with <b>React</b>, <b>TypeScript</b> ,<b>Express</b> & <b>Node.js</b>, with <b>AWS</b>,<b>Terraform</b>, <b>Docker</b>
   and <b>Kubernetes</b> on the infra | CI/CD side.
 </p>
 
