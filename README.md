@@ -3,15 +3,19 @@
 <p align="center"><b>Full-Stack Developer</b> &nbsp;·&nbsp; with <b>DevOps &amp; cloud</b> roots</p>
 
 <p align="center">
-  I've transitioned into <b>full-stack development</b> and it's where I do my best work: building and
-  shipping production web apps end to end, <b>React</b> and <b>TypeScript</b> on the front, <b>Node.js</b>
-  APIs behind them. Coming from <b>data analytics</b> and <b>DevOps and cloud infrastructure</b> means I
-  don't just build features, I know how they run in <b>AWS</b> once they ship. It runs on my machine and,
-  thanks to Docker, on yours too.
+  I started out as a <b>data analyst</b> (spreadsheets, dashboards, and a healthy suspicion of every
+  number), wandered into <b>DevOps and cloud infrastructure</b>, and eventually made the jump into
+  <b>full-stack development</b>, which is where I'm having the most fun.
 </p>
 
 <p align="center">
-  🎓 &nbsp;Currently completing a <b>Master's Degree Apprenticeship in Digital &amp; Technology Solutions</b> at <b>Newcastle University</b>.
+  These days I build and ship web apps end to end: <b>React</b> and <b>TypeScript</b> on the front,
+  <b>Node.js</b> APIs behind them, plus the <b>AWS</b>, <b>Docker</b> and <b>CI/CD</b> side handled from
+  the DevOps days. It runs on my machine and, thanks to Docker, on yours too.
+</p>
+
+<p align="center">
+  🎓 &nbsp;Currently doing a <b>Master's Degree Apprenticeship in Digital &amp; Technology Solutions</b> at <b>Newcastle University</b>.
 </p>
 
 <h3 align="center">Tech I work with</h3>
