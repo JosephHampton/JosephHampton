@@ -4,7 +4,7 @@
 
 <p align="center">
   I started out as a <b>data analyst</b>, moved into building web apps, and got into <b>DevOps and cloud</b>
-  along the way so I could run what I build in production, not just write it.
+  along the way so I could run more than just localhost.
 </p>
 
 <p align="center">
