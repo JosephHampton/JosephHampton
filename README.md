@@ -1,4 +1,4 @@
-<h1 align="center">Hi all</h1>
+<h1 align="center">Joseph Hampton </h1>
 
 <p align="center"><b>Full-Stack Developer</b></p>
 
