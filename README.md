@@ -1,6 +1,6 @@
 <h1 align="center">Joseph Hampton </h1>
 
-<p align="center"><b>Full-Stack Developer</b></p>
+<p align="center"><b>Full-Stack Developer / DevOps </b></p>
 
 <p align="center">
   Started out as a <b>data analyst</b>, moved into building web apps, and got into <b>DevOps and cloud</b>
