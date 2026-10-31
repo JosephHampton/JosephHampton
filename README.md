@@ -25,24 +25,31 @@
 
 <p align="center"><b>Arc 1 &nbsp;·&nbsp; AWS</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Solutions%20Architect%20%E2%80%93%20Associate-studying%20now-1f6feb?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAA - studying now">
-  <img src="https://img.shields.io/badge/AI%20Practitioner-planned-555?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS AI Practitioner - planned">
-  <img src="https://img.shields.io/badge/AI%20Business%20Strategist-planned-555?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS AI Business Strategist - planned">
-  <img src="https://img.shields.io/badge/Security%20%E2%80%93%20Specialty-planned-555?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Security Specialty - planned">
-  <img src="https://img.shields.io/badge/Generative%20AI%20Developer%20%E2%80%93%20Professional-planned-555?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Generative AI Developer Professional - planned">
+  <img height="78" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect Associate" />
+  &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" />
+  &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/b7716dcd-7fd1-4cb2-bcc8-23685f1bcdd8/blob" alt="AWS Certified AI Business Strategist (Early Adopter)" />
+  &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security Specialty" />
+  &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" alt="AWS Certified Generative AI Developer Professional" />
 </p>
 
 <p align="center"><b>Arc 2 &nbsp;·&nbsp; Governance &amp; Compliance (PECB)</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/ISO%2FIEC%2042001-Lead%20Implementer%20%C2%B7%20studying%20now-1f6feb?style=for-the-badge" alt="ISO/IEC 42001 Lead Implementer - studying now">
-  <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-Lead%20Implementer%20%C2%B7%20planned-555?style=for-the-badge" alt="ISO/IEC 27001 Lead Implementer - planned">
-  <img src="https://img.shields.io/badge/SOC%202-Lead%20Analyst%20%C2%B7%20planned-555?style=for-the-badge" alt="SOC 2 Lead Analyst - planned">
+  <img height="78" src="https://images.credly.com/images/6c43f192-92b9-4edb-adbd-6ff767fc0c63/blob" alt="ISO/IEC 42001 Lead Implementer" />
+  &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/89b9a53a-7499-4826-8908-eb1b6c981b64/00193.png" alt="ISO/IEC 27001 Lead Implementer" />
+  &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/a35726e5-1b42-43ba-92fc-465054f35b5a/blob" alt="PECB SOC 2 Analyst" />
 </p>
 
 <p align="center"><b>Arc 3 &nbsp;·&nbsp; Flagships</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/IAPP-AIGP%20%C2%B7%20planned-555?style=for-the-badge" alt="IAPP AIGP - planned">
-  <img src="https://img.shields.io/badge/ISC2-CISSP%20(Associate%20until%20verified)%20%C2%B7%20planned-555?style=for-the-badge" alt="ISC2 CISSP - planned">
+  <img height="78" src="./assets/aigp.png" alt="IAPP Certified AI Governance Professional (AIGP)" />
+  &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png" alt="ISC2 CISSP, held as Associate of ISC2 until experience is verified" />
 </p>
 
 <h3 align="center">GitHub Activity</h3>
