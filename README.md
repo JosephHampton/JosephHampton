@@ -6,7 +6,7 @@
   Software engineer going deep into <b>security, AI governance and cloud architecture</b>.
   Started as a <b>data analyst</b>, built web apps out of a hatred of PowerBI, moved into
   <b>DevOps and cloud</b> when people actually wanted to use them, and I'm now focused on
-  <b>secure-by-default systems, AI risk &amp; compliance, and least-privilege everything</b>.
+  <b>secure-by-default systems, AI risk &amp; compliance, and least-privilege everything now ai is hacking everything</b>.
 </p>
 
 <p align="center">
