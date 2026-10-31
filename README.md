@@ -19,11 +19,8 @@
   <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,nodejs,express,mongodb,aws,docker,githubactions,terraform" alt="Tech stack">
 </p>
 
-<h3 align="center">Certifications I'm working toward</h3>
+<h3 align="center">Certifications I'm studying for</h3>
 
-<p align="center"><i>A structured roadmap &mdash; none held yet, actively studying.</i></p>
-
-<p align="center"><b>Arc 1 &nbsp;·&nbsp; AWS</b></p>
 <p align="center">
   <img height="78" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect Associate" />
   &nbsp;&nbsp;
@@ -36,7 +33,6 @@
   <img height="78" src="https://images.credly.com/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" alt="AWS Certified Generative AI Developer Professional" />
 </p>
 
-<p align="center"><b>Arc 2 &nbsp;·&nbsp; Governance &amp; Compliance (PECB)</b></p>
 <p align="center">
   <img height="78" src="https://images.credly.com/images/6c43f192-92b9-4edb-adbd-6ff767fc0c63/blob" alt="ISO/IEC 42001 Lead Implementer" />
   &nbsp;&nbsp;
@@ -45,11 +41,10 @@
   <img height="78" src="https://images.credly.com/images/a35726e5-1b42-43ba-92fc-465054f35b5a/blob" alt="PECB SOC 2 Analyst" />
 </p>
 
-<p align="center"><b>Arc 3 &nbsp;·&nbsp; Flagships</b></p>
 <p align="center">
   <img height="78" src="./assets/aigp.png" alt="IAPP Certified AI Governance Professional (AIGP)" />
   &nbsp;&nbsp;
-  <img height="78" src="https://images.credly.com/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png" alt="ISC2 CISSP, held as Associate of ISC2 until experience is verified" />
+  <img height="78" src="./assets/cissp.png" alt="ISC2 CISSP, held as Associate of ISC2 until experience is verified" />
 </p>
 
 <h3 align="center">GitHub Activity</h3>
