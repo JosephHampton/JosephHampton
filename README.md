@@ -1,6 +1,6 @@
 <h1 align="center">Joseph Hampton</h1>
 
-<p align="center"><b>Security · AI Governance · Cloud</b></p>
+<p align="center"><b>Cloud Security · AI Governance · Cloud</b></p>
 
 <p align="center">
   Software engineer going deep into <b>cloud security, AI governance and cloud architecture</b>.
