@@ -47,6 +47,8 @@
   <img height="78" src="./assets/aigp.png" alt="IAPP Certified AI Governance Professional (AIGP)" />
   &nbsp;&nbsp;
   <img height="78" src="./assets/cissp.png" alt="ISC2 CISSP, held as Associate of ISC2 until experience is verified" />
+  &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/158f4291-ca93-40cb-b360-a4eac7f18763/blob" alt="ISACA Advanced in AI Security Management (AAISM)" />
 </p>
 
 <h3 align="center">GitHub Activity</h3>
