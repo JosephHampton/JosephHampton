@@ -30,7 +30,9 @@
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security Specialty" />
   &nbsp;&nbsp;
-  <img height="78" src="https://images.credly.com/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" alt="AWS Certified Generative AI Developer Professional" />
+  <img height="78" src="./assets/ai-transformation-leader.svg" alt="Microsoft Certified: AI Transformation Leader" />
+  &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" alt="Google Cloud Certified Generative AI Leader" />
 </p>
 
 <p align="center">
@@ -46,7 +48,7 @@
 <p align="center">
   <img height="78" src="./assets/aigp.png" alt="IAPP Certified AI Governance Professional (AIGP)" />
   &nbsp;&nbsp;
-  <img height="78" src="./assets/cissp.png" alt="ISC2 CISSP, held as Associate of ISC2 until experience is verified" />
+  <img height="78" src="https://images.credly.com/images/d0891dee-6360-496c-9981-40652523b502/dbdea6794f1a6bbcc18d90eea923421aac7df6b5.png" alt="ISACA Certified Information Security Manager (CISM)" />
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/158f4291-ca93-40cb-b360-a4eac7f18763/blob" alt="ISACA Advanced in AI Security Management (AAISM)" />
 </p>
