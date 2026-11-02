@@ -21,19 +21,23 @@
 
 <h3 align="center">Certifications I'm studying for</h3>
 
+<h4 align="center">Cloud and AI</h4>
+
 <p align="center">
-  <img height="78" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect Associate" />
-  &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" />
   &nbsp;&nbsp;
-  <img height="78" src="https://images.credly.com/images/b7716dcd-7fd1-4cb2-bcc8-23685f1bcdd8/blob" alt="AWS Certified AI Business Strategist (Early Adopter)" />
+  <img height="78" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect Associate" />
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security Specialty" />
   &nbsp;&nbsp;
-  <img height="78" src="./assets/ai-transformation-leader.svg" alt="Microsoft Certified: AI Transformation Leader" />
+  <img height="78" src="https://images.credly.com/images/b7716dcd-7fd1-4cb2-bcc8-23685f1bcdd8/blob" alt="AWS Certified AI Business Strategist (Early Adopter)" />
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" alt="Google Cloud Certified Generative AI Leader" />
+  &nbsp;&nbsp;
+  <img height="78" src="./assets/ai-transformation-leader.svg" alt="Microsoft Certified: AI Transformation Leader" />
 </p>
+
+<h4 align="center">Standards and compliance</h4>
 
 <p align="center">
   <img height="78" src="https://images.credly.com/images/6c43f192-92b9-4edb-adbd-6ff767fc0c63/blob" alt="ISO/IEC 42001 Lead Implementer" />
@@ -44,6 +48,8 @@
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/82549178-bfeb-4fef-89eb-7f4a85b6241f/blob" alt="PECB Certified Lead AI Risk Manager (covers ISO/IEC 23894 and NIST AI RMF)" />
 </p>
+
+<h4 align="center">Security and AI governance</h4>
 
 <p align="center">
   <img height="78" src="./assets/aigp.png" alt="IAPP Certified AI Governance Professional (AIGP)" />
