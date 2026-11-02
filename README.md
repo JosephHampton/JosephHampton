@@ -44,7 +44,7 @@
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/89b9a53a-7499-4826-8908-eb1b6c981b64/00193.png" alt="ISO/IEC 27001 Lead Implementer" />
   &nbsp;&nbsp;
-  <img height="78" src="https://images.credly.com/images/a35726e5-1b42-43ba-92fc-465054f35b5a/blob" alt="PECB SOC 2 Analyst" />
+  <img height="78" src="https://images.credly.com/images/2db3b107-1679-4ddd-a30f-3fe3fec567d4/blob" alt="PECB Certified Artificial Intelligence Security Professional (CAISP)" />
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/82549178-bfeb-4fef-89eb-7f4a85b6241f/blob" alt="PECB Certified Lead AI Risk Manager (covers ISO/IEC 23894 and NIST AI RMF)" />
 </p>
