@@ -30,7 +30,9 @@
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect Associate" />
   &nbsp;&nbsp;
-  <img height="78" src="https://images.credly.com/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" alt="AWS Certified Generative AI Developer Professional" />
+  <img height="78" src="./assets/azure-solutions-architect-expert.svg" alt="Microsoft Certified: Azure Solutions Architect Expert" />
+  &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="Google Cloud Certified Professional Cloud Architect" />
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/b7716dcd-7fd1-4cb2-bcc8-23685f1bcdd8/blob" alt="AWS Certified AI Business Strategist (Early Adopter)" />
 </p>
