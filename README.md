@@ -3,11 +3,12 @@
 <p align="center"><b>AI Assurance · AI Governance · Cloud Security</b></p>
 
 <p align="center">
-  AI and data engineer moving into <b>AI assurance, governance and attestation</b>.
+  AI and data engineer focused on <b>responsible AI, assurance and governance</b>.
   Started as a <b>data analyst</b>, built web apps out of a hatred of PowerBI, moved into
   <b>DevOps and cloud</b> when people actually wanted to use them, and now build
-  <b>agentic AI systems and the cloud they run on</b>. Next step: being the one who signs them off,
-  with <b>SOC 2 and AIUC-1 assurance for AI agents</b>, on the way to becoming a <b>US CPA</b>.
+  <b>agentic AI systems and the cloud they run on</b>. Building them showed me how much rests on
+  being able to trust what AI does, and that's the problem I want to work on:
+  <b>making sure the AI systems people rely on are safe, accountable and properly governed</b>.
 </p>
 
 <p align="center">
@@ -57,7 +58,6 @@
 </p>
 
 <p align="center">
-  Working towards <b>US CPA licensure</b> (Washington State, ISC discipline) &nbsp;·&nbsp;
   <a href="https://www.credly.com/users/joseph-hampton.480731e4">My Credly profile</a>
 </p>
 
