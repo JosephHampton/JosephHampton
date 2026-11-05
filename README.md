@@ -26,13 +26,13 @@
 <h4 align="center">Cloud and AI</h4>
 
 <p align="center">
-  <img height="78" src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" />
-  &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect Associate" />
   &nbsp;&nbsp;
   <img height="78" src="./assets/azure-administrator-associate.svg" alt="Microsoft Certified: Azure Administrator Associate (AZ-104)" />
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="Google Cloud Certified Associate Cloud Engineer" />
+  &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/4377e6e3-3297-4e3a-b8b8-e1ae89b8b0a8/image.png" alt="CSA Certificate of Cloud Security Knowledge (CCSK v5)" />
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/b7716dcd-7fd1-4cb2-bcc8-23685f1bcdd8/blob" alt="AWS Certified AI Business Strategist (Early Adopter)" />
 </p>
@@ -45,8 +45,6 @@
   <img height="78" src="https://images.credly.com/images/e2b89665-e5f8-4f31-a540-a58cb523dd4b/blob" alt="ISO/IEC 42001 Lead Auditor" />
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/06c477c6-9db3-43c2-91c8-0f8bcac70811/00196.png" alt="ISO/IEC 27001 Lead Auditor" />
-  &nbsp;&nbsp;
-  <img height="78" src="https://images.credly.com/images/4377e6e3-3297-4e3a-b8b8-e1ae89b8b0a8/image.png" alt="CSA Certificate of Cloud Security Knowledge (CCSK v5)" />
 </p>
 
 <h4 align="center">Audit and assurance</h4>
