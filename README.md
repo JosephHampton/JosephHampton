@@ -33,6 +33,10 @@
   <img height="78" src="https://images.credly.com/images/d0891dee-6360-496c-9981-40652523b502/dbdea6794f1a6bbcc18d90eea923421aac7df6b5.png" alt="ISACA Certified Information Security Manager (CISM)" />
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/158f4291-ca93-40cb-b360-a4eac7f18763/blob" alt="ISACA Advanced in AI Security Management (AAISM)" />
+  &nbsp;&nbsp;
+  <img height="78" src="./assets/cissp.png" alt="ISC2 Certified Information Systems Security Professional (CISSP)" />
+  &nbsp;&nbsp;
+  <img height="78" src="./assets/caisp-meme.svg" alt="Meme badge: my guess at what ISC2 will call its AI cert (CAISP, probably)" title="Not a real cert (yet)" />
 </p>
 
 <h4 align="center">2. Audit and assurance</h4>

@@ -1,0 +1,9 @@
+<svg viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <rect x="40" y="40" width="495" height="520" rx="95" fill="#ffffff"/>
+  <path d="M298 558 H137 A95 95 0 0 1 42 463 V137 A95 95 0 0 1 137 42 H440 A95 95 0 0 1 535 137 V318" fill="none" stroke="#88c0c1" stroke-width="42"/>
+  <path d="M535 360 V463 A95 95 0 0 1 440 558 H340" fill="none" stroke="#448334" stroke-width="42"/>
+  <circle cx="510" cy="160" r="78" fill="#211e1f"/>
+  <text x="510" y="178" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="46" fill="#ffffff">SOON</text>
+  <text x="285" y="342" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="112" font-weight="800" fill="#000000">CAISP</text>
+  <text x="285" y="405" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" font-style="italic" fill="#555555">(probably)</text>
+</svg>
