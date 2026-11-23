@@ -28,7 +28,7 @@
 <p align="center">
   <img height="78" src="./assets/aigp.png" alt="IAPP Certified AI Governance Professional (AIGP)" />
   &nbsp;&nbsp;
-  <img height="78" src="./assets/aair.svg" alt="ISACA Advanced in AI Risk (AAIR)" />
+  <img height="78" src="./assets/aair.png" alt="ISACA Advanced in AI Risk (AAIR)" />
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/d0891dee-6360-496c-9981-40652523b502/dbdea6794f1a6bbcc18d90eea923421aac7df6b5.png" alt="ISACA Certified Information Security Manager (CISM)" />
   &nbsp;&nbsp;
