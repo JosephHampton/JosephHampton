@@ -24,11 +24,7 @@
 
 <h3 align="center">Certifications I'm studying for</h3>
 
-<p align="center"><b>Governance and law</b> &nbsp;→&nbsp; <b>Audit and assurance</b> &nbsp;→&nbsp; <b>Cloud and AI implementation</b></p>
-
 <h4 align="center">1. Governance and law</h4>
-<p align="center"><i>What AI is allowed to do, under which laws, what risk is acceptable, and who is accountable</i></p>
-
 <p align="center">
   <img height="78" src="./assets/aigp.png" alt="IAPP Certified AI Governance Professional (AIGP)" />
   &nbsp;&nbsp;
@@ -40,8 +36,6 @@
 </p>
 
 <h4 align="center">2. Audit and assurance</h4>
-<p align="center"><i>Independently testing whether the controls exist and actually work</i></p>
-
 <p align="center">
   <img height="78" src="https://images.credly.com/images/e2b89665-e5f8-4f31-a540-a58cb523dd4b/blob" alt="PECB ISO/IEC 42001 Lead Auditor" />
   &nbsp;&nbsp;
@@ -57,8 +51,6 @@
 </p>
 
 <h4 align="center">3. Cloud and AI implementation</h4>
-<p align="center"><i>Building and securing the systems where those controls actually run</i></p>
-
 <p align="center">
   <img height="78" src="https://images.credly.com/images/4377e6e3-3297-4e3a-b8b8-e1ae89b8b0a8/image.png" alt="CSA Certificate of Cloud Security Knowledge (CCSK v5)" />
   &nbsp;&nbsp;
