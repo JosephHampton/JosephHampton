@@ -3,6 +3,11 @@
 <p align="center"><b>AI Assurance · AI Governance · Cloud Security</b></p>
 
 <p align="center">
+  <b>My mission: a future where AI law actually turns into things engineers can do.</b>
+  Regulation without actionable steps is just a strongly worded PDF.
+</p>
+
+<p align="center">
   Started as a <b>data analyst</b>, built web apps out of a hatred of PowerBI, moved into <b>DevOps and cloud</b>
   when people actually wanted to use them, and now build <b>agentic AI systems and the cloud they run on</b>.
   Somewhere along the way I got autistically interested in <b>how you actually keep AI on its guardrails</b>, at every layer:
