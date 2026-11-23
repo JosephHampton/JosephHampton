@@ -49,7 +49,7 @@
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/9363e67a-b077-4fc4-983c-acd34b2f651c/blob" alt="ISACA Advanced in AI Audit (AAIA)" />
   &nbsp;&nbsp;
-  <img height="78" src="./assets/star-for-ai.png" alt="CSA STAR for AI (STAR AI Controls Auditor)" />
+  <img height="78" src="https://images.credly.com/images/945617f2-4b9a-47e7-99d3-55fcf3e528a5/image.png" alt="The IIA Certified Internal Auditor (CIA)" />
   &nbsp;&nbsp;
   <img height="78" src="./assets/cpa.svg" alt="Certified Public Accountant (CPA)" />
 </p>
