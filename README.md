@@ -60,6 +60,8 @@
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security - Specialty" />
   &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/b7716dcd-7fd1-4cb2-bcc8-23685f1bcdd8/blob" alt="AWS Certified AI Business Strategist (Early Adopter)" />
+  &nbsp;&nbsp;
   <img height="78" src="./assets/microsoft-certified-associate.svg" alt="Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)" />
 </p>
 
