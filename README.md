@@ -11,8 +11,8 @@
 
 <p align="center">
   Building them taught me that trustworthy AI is a pipeline, and it breaks wherever nobody understands the next stage.
-  <b>Governance and law</b> decide what an AI system is allowed to do and who answers for it.
-  <b>Compliance and standards</b> turn that into controls that can be implemented, audited and proven.
+  <b>Governance and law</b> decide what an AI system is allowed to do, what risk is acceptable and who answers for it.
+  <b>Audit and assurance</b> independently test whether the controls behind those promises exist and actually work.
   <b>Cloud and AI engineering</b> is where those controls either exist in the running system or don't.
   Lawyers who can't read an architecture, auditors who can't test a model, and engineers who've never read the regulation
   each see one third of the problem. I think you have to know all three to make AI that people can actually rely on,
@@ -31,10 +31,10 @@
 
 <h3 align="center">Certifications I'm studying for</h3>
 
-<p align="center"><b>Governance and law</b> &nbsp;→&nbsp; <b>Compliance and standards</b> &nbsp;→&nbsp; <b>Cloud and AI implementation</b></p>
+<p align="center"><b>Governance and law</b> &nbsp;→&nbsp; <b>Audit and assurance</b> &nbsp;→&nbsp; <b>Cloud and AI implementation</b></p>
 
 <h4 align="center">1. Governance and law</h4>
-<p align="center"><i>What AI is allowed to do, under which laws, and who is accountable</i></p>
+<p align="center"><i>What AI is allowed to do, under which laws, what risk is acceptable, and who is accountable</i></p>
 
 <p align="center">
   <img height="78" src="./assets/aigp.png" alt="IAPP Certified AI Governance Professional (AIGP)" />
@@ -42,19 +42,25 @@
   <img height="78" src="./assets/cipp-e.png" alt="IAPP Certified Information Privacy Professional/Europe (CIPP/E)" />
   &nbsp;&nbsp;
   <img height="78" src="./assets/aair.svg" alt="ISACA Advanced in AI Risk (AAIR)" />
+  &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/d0891dee-6360-496c-9981-40652523b502/dbdea6794f1a6bbcc18d90eea923421aac7df6b5.png" alt="ISACA Certified Information Security Manager (CISM)" />
+  &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/158f4291-ca93-40cb-b360-a4eac7f18763/blob" alt="ISACA Advanced in AI Security Management (AAISM)" />
 </p>
 
-<h4 align="center">2. Compliance and standards</h4>
-<p align="center"><i>Turning policy into management systems and controls that can be audited</i></p>
+<h4 align="center">2. Audit and assurance</h4>
+<p align="center"><i>Independently testing whether the controls exist and actually work</i></p>
 
 <p align="center">
-  <img height="78" src="https://images.credly.com/images/6c43f192-92b9-4edb-adbd-6ff767fc0c63/blob" alt="PECB ISO/IEC 42001 Lead Implementer" />
+  <img height="78" src="https://images.credly.com/images/e2b89665-e5f8-4f31-a540-a58cb523dd4b/blob" alt="PECB ISO/IEC 42001 Lead Auditor" />
   &nbsp;&nbsp;
-  <img height="78" src="https://images.credly.com/images/89b9a53a-7499-4826-8908-eb1b6c981b64/00193.png" alt="PECB ISO/IEC 27001 Lead Implementer" />
+  <img height="78" src="https://images.credly.com/images/06c477c6-9db3-43c2-91c8-0f8bcac70811/00196.png" alt="PECB ISO/IEC 27001 Lead Auditor" />
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/d8b54d17-692a-4151-8e2e-e3c8c1a89ec1/b415cf50edc1955df11b9046c68b7e2debbd41f1.png" alt="ISACA Certified Information Systems Auditor (CISA)" />
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/9363e67a-b077-4fc4-983c-acd34b2f651c/blob" alt="ISACA Advanced in AI Audit (AAIA)" />
+  &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/b3dbc35a-bbd2-4339-b0ce-28669c0fa21a/CCAK_digital_badge_final_600.png" alt="CSA/ISACA Certificate of Cloud Auditing Knowledge (CCAK)" />
   &nbsp;&nbsp;
   <img height="78" src="./assets/cpa.svg" alt="Certified Public Accountant (CPA)" />
 </p>
