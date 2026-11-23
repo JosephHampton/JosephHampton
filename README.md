@@ -3,20 +3,15 @@
 <p align="center"><b>AI Assurance · AI Governance · Cloud Security</b></p>
 
 <p align="center">
-  AI and data engineer focused on <b>responsible AI, assurance and governance</b>.
-  Started as a <b>data analyst</b>, built web apps out of a hatred of PowerBI, moved into
-  <b>DevOps and cloud</b> when people actually wanted to use them, and now build
-  <b>agentic AI systems and the cloud they run on</b>.
+  Data analyst turned AI engineer. I built web apps because I hated PowerBI, moved into <b>DevOps and cloud</b>
+  once people actually used them, and now build <b>agentic AI systems and the cloud they run on</b>.
 </p>
 
 <p align="center">
-  Building them taught me that trustworthy AI is a pipeline, and it breaks wherever nobody understands the next stage.
-  <b>Governance and law</b> decide what an AI system is allowed to do, what risk is acceptable and who answers for it.
-  <b>Audit and assurance</b> independently test whether the controls behind those promises exist and actually work.
-  <b>Cloud and AI engineering</b> is where those controls either exist in the running system or don't.
-  Lawyers who can't read an architecture, auditors who can't test a model, and engineers who've never read the regulation
-  each see one third of the problem. I think you have to know all three to make AI that people can actually rely on,
-  so that's what I'm training for, end to end.
+  Building them left me obsessed with one question: <b>how do you actually keep an AI system on its guardrails?</b>
+  The answer runs through three layers. <b>Governance and law</b> set the limits and who is accountable.
+  <b>Audit and assurance</b> prove the controls exist and work. <b>Cloud and AI engineering</b> is where those
+  controls actually run, or don't. Most people know one layer. I want to know all three, end to end.
 </p>
 
 <p align="center">
