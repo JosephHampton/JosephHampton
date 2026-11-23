@@ -6,9 +6,17 @@
   AI and data engineer focused on <b>responsible AI, assurance and governance</b>.
   Started as a <b>data analyst</b>, built web apps out of a hatred of PowerBI, moved into
   <b>DevOps and cloud</b> when people actually wanted to use them, and now build
-  <b>agentic AI systems and the cloud they run on</b>. Building them showed me how much rests on
-  being able to trust what AI does, and that's the problem I want to work on:
-  <b>making sure the AI systems people rely on are safe, accountable and properly governed</b>.
+  <b>agentic AI systems and the cloud they run on</b>.
+</p>
+
+<p align="center">
+  Building them taught me that trustworthy AI is a pipeline, and it breaks wherever nobody understands the next stage.
+  <b>Governance and law</b> decide what an AI system is allowed to do and who answers for it.
+  <b>Compliance and standards</b> turn that into controls that can be implemented, audited and proven.
+  <b>Cloud and AI engineering</b> is where those controls either exist in the running system or don't.
+  Lawyers who can't read an architecture, auditors who can't test a model, and engineers who've never read the regulation
+  each see one third of the problem. I think you have to know all three to make AI that people can actually rely on,
+  so that's what I'm training for, end to end.
 </p>
 
 <p align="center">
@@ -23,38 +31,47 @@
 
 <h3 align="center">Certifications I'm studying for</h3>
 
-<h4 align="center">Cloud and AI</h4>
+<p align="center"><b>Governance and law</b> &nbsp;→&nbsp; <b>Compliance and standards</b> &nbsp;→&nbsp; <b>Cloud and AI implementation</b></p>
 
-<p align="center">
-  <img height="78" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect Associate" />
-  &nbsp;&nbsp;
-  <img height="78" src="./assets/azure-administrator-associate.svg" alt="Microsoft Certified: Azure Administrator Associate (AZ-104)" />
-  &nbsp;&nbsp;
-  <img height="78" src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="Google Cloud Certified Associate Cloud Engineer" />
-  &nbsp;&nbsp;
-  <img height="78" src="https://images.credly.com/images/4377e6e3-3297-4e3a-b8b8-e1ae89b8b0a8/image.png" alt="CSA Certificate of Cloud Security Knowledge (CCSK v5)" />
-  &nbsp;&nbsp;
-  <img height="78" src="https://images.credly.com/images/b7716dcd-7fd1-4cb2-bcc8-23685f1bcdd8/blob" alt="AWS Certified AI Business Strategist (Early Adopter)" />
-</p>
-
-<h4 align="center">AI governance and standards</h4>
+<h4 align="center">1. Governance and law</h4>
+<p align="center"><i>What AI is allowed to do, under which laws, and who is accountable</i></p>
 
 <p align="center">
   <img height="78" src="./assets/aigp.png" alt="IAPP Certified AI Governance Professional (AIGP)" />
   &nbsp;&nbsp;
-  <img height="78" src="https://images.credly.com/images/e2b89665-e5f8-4f31-a540-a58cb523dd4b/blob" alt="ISO/IEC 42001 Lead Auditor" />
+  <img height="78" src="./assets/cipp-e.png" alt="IAPP Certified Information Privacy Professional/Europe (CIPP/E)" />
   &nbsp;&nbsp;
-  <img height="78" src="https://images.credly.com/images/06c477c6-9db3-43c2-91c8-0f8bcac70811/00196.png" alt="ISO/IEC 27001 Lead Auditor" />
+  <img height="78" src="./assets/aair.svg" alt="ISACA Advanced in AI Risk (AAIR)" />
 </p>
 
-<h4 align="center">Audit and assurance</h4>
+<h4 align="center">2. Compliance and standards</h4>
+<p align="center"><i>Turning policy into management systems and controls that can be audited</i></p>
 
 <p align="center">
+  <img height="78" src="https://images.credly.com/images/6c43f192-92b9-4edb-adbd-6ff767fc0c63/blob" alt="PECB ISO/IEC 42001 Lead Implementer" />
+  &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/89b9a53a-7499-4826-8908-eb1b6c981b64/00193.png" alt="PECB ISO/IEC 27001 Lead Implementer" />
+  &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/d8b54d17-692a-4151-8e2e-e3c8c1a89ec1/b415cf50edc1955df11b9046c68b7e2debbd41f1.png" alt="ISACA Certified Information Systems Auditor (CISA)" />
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/9363e67a-b077-4fc4-983c-acd34b2f651c/blob" alt="ISACA Advanced in AI Audit (AAIA)" />
   &nbsp;&nbsp;
-  <img height="78" src="https://images.credly.com/images/b743ab14-7700-4b5d-b03d-6c4b013301d0/2004D-70571_CITP-Credential-digital-badges_600x600.png" alt="AICPA Certified Information Technology Professional (CITP)" />
+  <img height="78" src="./assets/cpa.svg" alt="Certified Public Accountant (CPA)" />
+</p>
+
+<h4 align="center">3. Cloud and AI implementation</h4>
+<p align="center"><i>Building and securing the systems where those controls actually run</i></p>
+
+<p align="center">
+  <img height="78" src="https://images.credly.com/images/4377e6e3-3297-4e3a-b8b8-e1ae89b8b0a8/image.png" alt="CSA Certificate of Cloud Security Knowledge (CCSK v5)" />
+  &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" />
+  &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" alt="AWS Certified Generative AI Developer - Professional" />
+  &nbsp;&nbsp;
+  <img height="78" src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security - Specialty" />
+  &nbsp;&nbsp;
+  <img height="78" src="./assets/microsoft-certified-associate.svg" alt="Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)" />
 </p>
 
 <p align="center">
