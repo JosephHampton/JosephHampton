@@ -3,7 +3,7 @@
 <p align="center"><b>AI Assurance · AI Governance · Cloud Security</b></p>
 
 <p align="center">
-  <b>My mission: translate AI law and standards into things engineers can actually do.</b>
+  <b>My mission: translate AI law and standards into controls engineers can actually build.</b>
 </p>
 
 <p align="center">
