@@ -3,15 +3,11 @@
 <p align="center"><b>AI Assurance · AI Governance · Cloud Security</b></p>
 
 <p align="center">
-  Data analyst turned AI engineer. I built web apps because I hated PowerBI, moved into <b>DevOps and cloud</b>
-  once people actually used them, and now build <b>agentic AI systems and the cloud they run on</b>.
-</p>
-
-<p align="center">
-  Building them left me obsessed with one question: <b>how do you actually keep an AI system on its guardrails?</b>
-  The answer runs through three layers. <b>Governance and law</b> set the limits and who is accountable.
-  <b>Audit and assurance</b> prove the controls exist and work. <b>Cloud and AI engineering</b> is where those
-  controls actually run, or don't. Most people know one layer. I want to know all three, end to end.
+  Started as a <b>data analyst</b>, built web apps out of a hatred of PowerBI, moved into <b>DevOps and cloud</b>
+  when people actually wanted to use them, and now build <b>agentic AI systems and the cloud they run on</b>.
+  Somewhere along the way I got autistically interested in <b>how you actually keep AI on its guardrails</b>, at every layer:
+  the <b>governance</b> that decides what it's allowed to do, the <b>standards and audits</b> that check anyone's listening,
+  and the <b>technical side</b> that stops it going rogue anyway.
 </p>
 
 <p align="center">
