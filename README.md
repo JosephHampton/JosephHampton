@@ -49,7 +49,7 @@
   &nbsp;&nbsp;
   <img height="78" src="https://images.credly.com/images/9363e67a-b077-4fc4-983c-acd34b2f651c/blob" alt="ISACA Advanced in AI Audit (AAIA)" />
   &nbsp;&nbsp;
-  <img height="78" src="https://images.credly.com/images/b3dbc35a-bbd2-4339-b0ce-28669c0fa21a/CCAK_digital_badge_final_600.png" alt="CSA/ISACA Certificate of Cloud Auditing Knowledge (CCAK)" />
+  <img height="78" src="./assets/star-ai-controls-auditor.svg" alt="CSA STAR AI Controls Auditor Training" />
   &nbsp;&nbsp;
   <img height="78" src="./assets/cpa.svg" alt="Certified Public Accountant (CPA)" />
 </p>
