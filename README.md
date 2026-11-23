@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  Regulation without actionable steps is just a strongly worded PDF. I went from data analyst to web apps
-  (out of a hatred of PowerBI) to DevOps, cloud and agentic AI, so I speak both languages,
-  and I'm autistically into the bit in between.
+  Started as a <b>data analyst</b>, became a <b>full stack developer</b> out of a hatred of PowerBI, and ended up as an
+  <b>AI platform and security engineer</b> when AI started hacking everything. Now I'm heading into <b>governance and audit</b>,
+  because regulation without actionable steps is just a strongly worded PDF. Every layer of the stack, from the law down to the code, is fair game.
 </p>
 
 <p align="center">
